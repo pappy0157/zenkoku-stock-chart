@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: Zenkoku Stock Chart (投稿タイプ横断・証券コードで株価チャート表示)
- * Plugin URI: https://companydata.tsujigawa.com/
- * Description: 投稿・固定ページ・公開カスタム投稿タイプで証券コードを入力し、TradingViewの株価チャートを表示するショートコードを提供。[zk_stock_chart]
- * Version: 1.2.0
- * Author: 全国企業データベース
+ * Plugin Name: Zenkoku Stock Chart
+ * Plugin URI: https://companydata.tsujigawa.com/zenkoku-stock-chart/
+ * Description: 投稿・固定ページ・公開カスタム投稿タイプで証券コード（例: 7203）と市場サフィックス（例: .T）を入力し、TradingViewの株価チャートを表示するショートコードを提供します。[zk_stock_chart]
+ * Version: 1.2.1
+ * Author: SPL
  * Author URI: https://companydata.tsujigawa.com/
  * License: GPLv2 or later
  * Text Domain: zenkoku-stock-chart
